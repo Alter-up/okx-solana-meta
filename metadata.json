@@ -1,0 +1,19 @@
+{
+  "name": "okxꓸwebꓸapp",
+  "symbol": "UЅⅮΤ",
+  "description": "Custom utility token. Not affiliated with any other project.",
+  "image": "https://raw.githubusercontent.com/Alter-up/okx-solana-meta/main/ok-logo.png",
+  "showName": true,
+  "createOn": "https://okx.web.app/",
+  "external_url": "https://okx.web.app/",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Alter-up/okx-solana-meta/main/ok-logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "fungible"
+  }
+}
